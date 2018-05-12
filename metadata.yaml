@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '31692'
     url: http://www.gutenberg.org/2009/agents/31692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40275#The-Celtic-Magazine-Vol.-I-No.-VMaterial-Interests-of-the-Celt-at-Home-and-Abroad
 gutenberg_bookshelf: Celtic Magazine
 gutenberg_issued: '2012-07-19'
 gutenberg_type: Text
